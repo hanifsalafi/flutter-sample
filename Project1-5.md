@@ -4,7 +4,7 @@
 
 Source code -> [mainTest.dart](https://github.com/hanifsalafi/flutter-sample/blob/main/lib/mainTest.dart)
 
-![image](https://github.com/hanifsalafi/flutter-sample/blob/main/screenshot/project1-5/mainTest.png)
+![image](https://github.com/hanifsalafi/flutter-sample/blob/main/screenshot/project1-5/mainTest.png?raw=true "mainTest")
 
 ## 2. Text Widget
 
