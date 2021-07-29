@@ -28,6 +28,6 @@ Source code -> [mainAppbarMotif.dart](https://github.com/hanifsalafi/flutter-sam
 
 Source code -> [navigation](https://github.com/hanifsalafi/flutter-sample/tree/main/lib/NavigationPage)
 
-<img src="https://github.com/hanifsalafi/flutter-sample/blob/main/screenshot/project11-15/mainNav-1.png?raw=true" width="300">
-<img src="https://github.com/hanifsalafi/flutter-sample/blob/main/screenshot/project11-15/mainNav-2.png?raw=true" width="300">
-<img src="https://github.com/hanifsalafi/flutter-sample/blob/main/screenshot/project11-15/mainNav-3.png?raw=true" width="300">
+<img src="https://github.com/hanifsalafi/flutter-sample/blob/main/screenshot/project11-15/mainNav-1.png?raw=true" width="300" align="left">
+<img src="https://github.com/hanifsalafi/flutter-sample/blob/main/screenshot/project11-15/mainNav-2.png?raw=true" width="300" align="left">
+<img src="https://github.com/hanifsalafi/flutter-sample/blob/main/screenshot/project11-15/mainNav-3.png?raw=true" width="300" align="left">
