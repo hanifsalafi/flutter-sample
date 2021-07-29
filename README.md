@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # flutter-sample
-=======
-# sample1
 
 A new Flutter project.
 
@@ -17,4 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
->>>>>>> master
+
+## Project List
+
+This is the project of my training result:
+* [Project 1 - 5](https://github.com/hanifsalafi/flutter-sample/blob/main/Project1-5.md)
+* [Project 6 - 10](https://github.com/hanifsalafi/flutter-sample/blob/main/Project6-10.md)
+* [Project 11 - 15](https://github.com/hanifsalafi/flutter-sample/blob/main/Project11-15.md)
+* [Project 15 - 20](https://github.com/hanifsalafi/flutter-sample/blob/main/Project16-20.md)
+
+
