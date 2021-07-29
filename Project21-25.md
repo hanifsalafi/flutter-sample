@@ -4,7 +4,7 @@
 
 Source code -> [mainCustomCard.dart](https://github.com/hanifsalafi/flutter-sample/blob/main/lib/mainCustomCard.dart)
 
-<img src="https://github.com/hanifsalafi/flutter-sample/blob/main/screenshot/project21-25/mainStackAlign.png?raw=true" width="300">
+<img src="https://github.com/hanifsalafi/flutter-sample/blob/main/screenshot/project21-25/mainCustomCard.png?raw=true" width="300">
 
 ## 22. Positioned, FloatingActionButton - Login Page
 
