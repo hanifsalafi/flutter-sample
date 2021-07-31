@@ -23,5 +23,6 @@ This is the project of my training result:
 * [Project 11 - 15](https://github.com/hanifsalafi/flutter-sample/blob/main/Project11-15.md)
 * [Project 16 - 20](https://github.com/hanifsalafi/flutter-sample/blob/main/Project16-20.md)
 * [Project 21 - 25](https://github.com/hanifsalafi/flutter-sample/blob/main/Project21-25.md)
+* [Project 26 - 30](https://github.com/hanifsalafi/flutter-sample/blob/main/Project26-30.md)
 
 
