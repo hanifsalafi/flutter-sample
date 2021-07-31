@@ -27,7 +27,7 @@ Source code -> [mainCustomAppbar.dart](https://github.com/hanifsalafi/flutter-sa
 
 ## 25. Tab Bar Widget
 
-Source code -> [mainTabBar.dart](https://github.com/hanifsalafi/flutter-sample/tree/main/lib/mainTabBar.dart) <br/>
+Source code -> [mainTabBar.dart](https://github.com/hanifsalafi/flutter-sample/tree/main/lib/mainTabBar.dart)<br/>
 Source code -> [mainTabBar2.dart](https://github.com/hanifsalafi/flutter-sample/tree/main/lib/mainTabBar2.dart)
 
 <img src="https://github.com/hanifsalafi/flutter-sample/blob/main/screenshot/project21-25/mainTabBar.png?raw=true" width="300" align="left">
